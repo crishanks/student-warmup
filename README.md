@@ -1,5 +1,7 @@
 # Student Warmup
 
+First step is to clone this repo down, cd into `student-warmup` and run `yarn install` or `npm install`
+
 Your task will be to re-create the following gifs using React: 
 
 ![controlled input](https://camo.githubusercontent.com/5df57bde30bed0fe8d370ba59001f64baaf3639d/687474703a2f2f672e7265636f726469742e636f2f586f544c7068314851492e676966)
